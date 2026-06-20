@@ -155,11 +155,15 @@ These challenges were overcome through incremental development, continuous testi
 
 # Demonstration Video
 
-**Project Demonstration Recording**
+## Project Demonstration Recording
 
-Paste your demonstration video link here:
+The following videos demonstrate the completed Forge Fitness Tracker application, including the project overview, implementation approach, GUI functionality, application features, challenges encountered, and final system demonstration.
 
-[Project Demonstration Video](PASTE_VIDEO_LINK_HERE)
+### Part 1 – Project Overview and Application Demonstration
+[Watch Part 1](https://www.loom.com/share/3b32d9ce8a5e4c0f81daa9f8fbd0d755)
+
+### Part 2 – Application Demonstration and Project Discussion
+[Watch Part 2](https://www.loom.com/share/6466a5c642a14072b746db485606314b)
 
 ---
 
@@ -167,9 +171,9 @@ Paste your demonstration video link here:
 
 **GitHub Repository**
 
-Paste your project repository link here:
+The source code for Forge Fitness Tracker was maintained using GitHub throughout the development process and includes all project artifacts, source code, documentation, and milestone deliverables.
 
-[Forge Fitness Tracker Repository](PASTE_GITHUB_REPOSITORY_LINK_HERE)
+[View Source Code Repository](https://github.com/EENGSTROM1/SeniorProject/tree/Final)
 
 ---
 
@@ -203,4 +207,4 @@ Grand Canyon University
 
 CST-452 Senior Project II
 
-2026
+June 21, 2026
